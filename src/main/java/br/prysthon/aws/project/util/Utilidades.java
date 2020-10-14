@@ -8,7 +8,7 @@ import java.util.Date;
  * @author Rennan Prysthon
  * @since 12/10/2020
  */
-public abstract class Utilidades {
+public final class Utilidades {
     /**
      * Retorna o primeiro valor nao nulo de uma lista de objetos
      * @param objects Objetos a serem verificados
